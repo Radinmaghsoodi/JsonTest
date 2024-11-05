@@ -1,0 +1,24 @@
+[
+    {
+        "name":"radin",
+        "familyName":"Maghsoodi",
+        "age":19,
+        "isMarried":false,
+        "passedCourses":50
+    },
+    {
+        "name":"reza",
+        "familyName":"rezapour",
+        "age":18,
+        "isMarried":false,
+        "passedCourses":20
+    },
+    {
+        "name":"ali",
+        "familyName":"mohammadi",
+        "age":30,
+        "isMarried":true,
+        "passedCourses":70
+    }
+]
+

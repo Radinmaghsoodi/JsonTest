@@ -1,0 +1,9 @@
+{
+    "name":"Radin",
+    "age":19,
+    "cars":[
+        "Ford",
+        "BMW",
+        "Fiat"
+    ]
+}
